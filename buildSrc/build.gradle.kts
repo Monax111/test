@@ -7,7 +7,7 @@ repositories{
     jcenter()
 }
 
-id("org.springframework.boot") version "2.2.4.RELEASE"
+id("org.springframework.boot") version "2.3.1.RELEASE"
 
 class Version(val name:String){
     lateinit var version:String
