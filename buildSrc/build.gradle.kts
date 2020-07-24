@@ -1,5 +1,5 @@
 plugins {
-    id("com.gorylenko.gradle-git-properties") version "1.5.2"
+
     kotlin("jvm") version "1.3.60"
 }
 
